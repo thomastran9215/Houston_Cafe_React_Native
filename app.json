@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Houston_Cafe_React_Native",
-    "slug": "Houston_Cafe_React_Native",
+    "name": "Houston Cafe",
+    "slug": "HoustonCafe",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
